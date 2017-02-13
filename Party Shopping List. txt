@@ -1,0 +1,15 @@
+
+!DOCTYPE html
+
+<body>
+<ul>
+	<li>Types of Food</li>
+	<li>
+		<ul>
+			<li>Italian</li>
+			<li>Lebanese</li>
+			<li>Gluten-Free</li>
+		</ul>
+	</li>
+</ul>
+<body>
