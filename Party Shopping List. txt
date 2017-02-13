@@ -2,6 +2,7 @@
 !DOCTYPE html
 
 <body>
+<h2></h2>
 <ul>
 	<li>Types of Food</li>
 	<li>
@@ -11,5 +12,13 @@
 			<li>Gluten-Free</li>
 		</ul>
 	</li>
+</ul>
+<h2>drinks</h2>
+<ul>
+	<li>shots</li>
+	<li>shots</li>
+	<li>shots</li>
+	<li>shots</li>
+	<li>shots</li>
 </ul>
 <body>
